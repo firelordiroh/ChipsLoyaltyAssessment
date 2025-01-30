@@ -23,6 +23,7 @@ Installation/Usage:
     - POST request to (http://127.0.0.1:8000/api/comments/) to Create your new comment(s)
    
 (Note you can visit the link to do it there as well)
+
 Notes:
 - Data persistence: The data will be stored in the db.sqlite3 file, and it will persist across server restarts unless the file is deleted
 - Future Endeavors: You can modify the data model or views as needed to add additional functionality (maybe add a like button)
