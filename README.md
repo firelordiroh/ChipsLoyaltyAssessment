@@ -4,7 +4,6 @@ This is a simple backend API for a social media application, built using Django 
 - Create a post
 - Comment on a post from different users (or your own)
 
-Getting Started
 Follow these steps to set up and run the project locally.
 
 Prerequisites
