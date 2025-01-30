@@ -1,4 +1,4 @@
-# ChipsLoyalty Backend Technical Assessment
+# Chips Loyalty Backend Technical Assessment
 This is a simple backend API for a social media application, built using Django and Django REST Framework. The API allows users to:
 - Create a user
 - Create a post
